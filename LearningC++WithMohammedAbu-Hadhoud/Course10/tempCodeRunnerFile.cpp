@@ -1,0 +1,5 @@
+#include "clsPerson.h"
+#include "clsCalculator.h"
+#include "clsStudent.h"
+#include "clsEmployee.h"
+#include "clsDeveloper.h"
